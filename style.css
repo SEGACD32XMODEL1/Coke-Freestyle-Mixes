@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Tulpen+One&display=swap");
+
+* {
+  text-align: center;
+  font-family: "Bricolage Grotesque";
+  font-size: 5vw;
+}
+
+h1 {
+  font-family: "Tulpen One";
+  font-size: 10vw;
+  margin-bottom: 0;
+}
+
+table,
+tr,
+td {
+  align-self: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 0;
+}
+
+img {
+  display: block;
+  width: 15vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.letter {
+  width: 15vw;
+}
+
+.numbers {
+  width: 25vw;
+}
