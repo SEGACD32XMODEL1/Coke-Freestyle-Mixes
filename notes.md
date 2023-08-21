@@ -6,11 +6,11 @@
 <br>mixname=Coke-Aid
 
 ![mix](https://i.pinimg.com/564x/85/b0/ab/85b0ab30bc2893da4afbcc8feed161b2.jpg)
-<br>bev1=1475620
+<br>bev1=1475620 - Coca-Cola Cherry
 <br>bev1ratio=34
 <br>bev2=1482853 - Sprite Strawberry
 <br>bev2ratio=33
-<br>bev3=1565599
+<br>bev3=1565599 - Sprite Vanilla
 <br>bev3ratio=33
 <br>mixname=Movie Favorite
 
