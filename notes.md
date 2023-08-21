@@ -15,7 +15,7 @@
 <br>mixname=Movie Favorite
 
 ![mix](https://i.pinimg.com/564x/bc/49/f7/bc49f75b53b4b459d197207177141e0a.jpg)
-<br>bev1=1596918
+<br>bev1=1596918 - Mello Yellow Peach
 <br>bev1ratio=40
 <br>bev2=1482853 - Sprite Strawberry
 <br>bev2ratio=60
