@@ -49,3 +49,10 @@ h2 {
 .numbers {
   width: 25vw;
 }
+
+.idcodes, .idcodes > button {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 3vw;
+}
