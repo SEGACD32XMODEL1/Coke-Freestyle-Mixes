@@ -28,7 +28,7 @@
 <br>bev2ratio=38
 <br>bev3=1475622 - Coca-Cola
 <br>bev3ratio=31
-<br>This URL had no mixname= so the post named it ᏞᎾᏙᎬ
+<br>mixname=ᏞᎾᏙᎬ
 
 ![mix](https://i.pinimg.com/564x/c3/9a/30/c39a30456c08820723faae80578fbff6.jpg)
 <br>bev1=1475622 - Coca-Cola
@@ -38,3 +38,17 @@
 <br>bev3=1475636
 <br>bev3ratio=33
 <br>mixname=Triple Coke
+
+![mix](https://i.pinimg.com/564x/4f/b4/44/4fb444aeb76182e5b68b1d4c188aacf0.jpg)
+<br>bev1=1475621 - Coca-Cola Vanilla
+<br>bev1ratio=75
+<br>bev2=1475651 - Fanta Raspberry
+<br>bev2ratio=25
+<br>mixname=Raspberry Cream
+
+![mix](https://i.pinimg.com/564x/1a/95/75/1a95753fbefe18361726ab65cec0b312.jpg)
+<br>mixname=Vanilla Drink
+<br>bev1=1475621 - Coca-Cola Vanilla
+<br>bev1ratio=50
+<br>bev2=1565599 - Sprite Vanilla
+<br>bev2ratio=50
