@@ -73,5 +73,7 @@ h2 {
 }
 
 @supports (-webkit-touch-callout: none) {
-  padding: 0;
+  button {
+    padding: 0;
+  }
 }
