@@ -1,3 +1,21 @@
+![mix](https://i.pinimg.com/564x/c2/51/a0/c251a05c760abac7f80dd35c5f5fb147.jpg)
+<br>bev1=1616644
+<br>bev1ratio=34
+<br>bev2=1475625 - Coca-Cola Zero Vanilla
+<br>bev2ratio=33
+<br>bev3=1475626
+<br>bev3ratio=33
+<br>mixname= No name was provided, so "Null" is the name
+
+![mix](https://i.pinimg.com/564x/c3/9a/30/c39a30456c08820723faae80578fbff6.jpg)
+<br>bev1=1475622 - Coca-Cola
+<br>bev1ratio=34
+<br>bev2=1475625 - Coca-Cola Zero Vanilla
+<br>bev2ratio=33
+<br>bev3=1475636 - Diet Coke Caffeine Free Raspberry
+<br>bev3ratio=33
+<br>mixname=Triple Coke
+
 ![mix](https://i.pinimg.com/564x/20/c8/42/20c84251808ce771e13ecac888b79b2d.jpg)
 <br>bev1=1475622 - Coca-Cola
 <br>bev1ratio=50
@@ -29,15 +47,6 @@
 <br>bev3=1475622 - Coca-Cola
 <br>bev3ratio=31
 <br>mixname=ᏞᎾᏙᎬ
-
-![mix](https://i.pinimg.com/564x/c3/9a/30/c39a30456c08820723faae80578fbff6.jpg)
-<br>bev1=1475622 - Coca-Cola
-<br>bev1ratio=34
-<br>bev2=1475625
-<br>bev2ratio=33
-<br>bev3=1475636
-<br>bev3ratio=33
-<br>mixname=Triple Coke
 
 ![mix](https://i.pinimg.com/564x/4f/b4/44/4fb444aeb76182e5b68b1d4c188aacf0.jpg)
 <br>bev1=1475621 - Coca-Cola Vanilla
