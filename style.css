@@ -71,3 +71,7 @@ h2 {
 .menuTitle {
   margin: 0;
 }
+
+@supports (-webkit-touch-callout: none) {
+  padding: 0;
+}
