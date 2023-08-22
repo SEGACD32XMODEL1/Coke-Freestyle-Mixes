@@ -56,3 +56,18 @@ h2 {
   right: 0;
   font-size: 3vw;
 }
+
+.IDmenu {
+  position: fixed;
+  bottom: 50vh;
+  top: 50vh;
+  left: 5vw;
+}
+
+.IDmenu > a > button {
+  width: 12vw;
+}
+
+.menuTitle {
+  margin: 0;
+}
