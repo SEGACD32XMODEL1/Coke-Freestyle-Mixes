@@ -1,9 +1,18 @@
+![mix](https://i.pinimg.com/564x/b6/fa/ef/b6faefd340bc32f4a06c6c5c59e866a5.jpg)
+<br>bev1=1574020
+<br>bev1ratio=34
+<br>bev2=1475654
+<br>bev2ratio=33
+<br>bev3=1475626 - Coca-Cola Raspberry
+<br>bev3ratio=33
+<br>mixname=April Showers May Flowers
+
 ![mix](https://i.pinimg.com/564x/c2/51/a0/c251a05c760abac7f80dd35c5f5fb147.jpg)
-<br>bev1=1616644
+<br>bev1=1616644 - Mellow Yello Zero Sugar Orange
 <br>bev1ratio=34
 <br>bev2=1475625 - Coca-Cola Zero Vanilla
 <br>bev2ratio=33
-<br>bev3=1475626
+<br>bev3=1475626 - Coca-Cola Raspberry
 <br>bev3ratio=33
 <br>mixname= No name was provided, so "Null" is the name
 
