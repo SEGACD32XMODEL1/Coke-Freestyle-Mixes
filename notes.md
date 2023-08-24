@@ -8,13 +8,13 @@
 <br>mixname=April Showers May Flowers
 
 ![mix](https://i.pinimg.com/564x/c2/51/a0/c251a05c760abac7f80dd35c5f5fb147.jpg)
-<br>bev1=1616644 - Mellow Yello Zero Sugar Peach
+<br>bev1=1616644 - Mello Yello Zero Sugar Peach
 <br>bev1ratio=34
 <br>bev2=1475625 - Coca-Cola Zero Vanilla
 <br>bev2ratio=33
 <br>bev3=1475626 - Coca-Cola Raspberry
 <br>bev3ratio=33
-<br>mixname= No name was provided, so "Null" is the name
+<br>mixname= (No name was provided, so "Null" was the name) Fruity Coke Yello Vanilla
 
 ![mix](https://i.pinimg.com/564x/c3/9a/30/c39a30456c08820723faae80578fbff6.jpg)
 <br>bev1=1475622 - Coca-Cola
@@ -42,7 +42,7 @@
 <br>mixname=Movie Favorite
 
 ![mix](https://i.pinimg.com/564x/bc/49/f7/bc49f75b53b4b459d197207177141e0a.jpg)
-<br>bev1=1596918 - Mello Yellow Peach
+<br>bev1=1596918 - Mello Yello Peach
 <br>bev1ratio=40
 <br>bev2=1482853 - Sprite Strawberry
 <br>bev2ratio=60
