@@ -1,7 +1,14 @@
+![mix](https://i.pinimg.com/564x/2d/84/22/2d8422c3dc6daec53760151dae389dad.jpg)
+<br>mixname=("Null") Double Cherry Coke Vanilla
+<br>bev1=1475620 - Coca-Cola Cherry
+<br>bev1ratio=75
+<br>bev2=1574020 - Coca-Cola Cherry Vanilla
+<br>bev2ratio=25
+
 ![mix](https://i.pinimg.com/564x/b6/fa/ef/b6faefd340bc32f4a06c6c5c59e866a5.jpg)
-<br>bev1=1574020
+<br>bev1=1574020 - Coca-Cola Cherry Vanilla
 <br>bev1ratio=34
-<br>bev2=1475654
+<br>bev2=1475654 - Fanta Peach
 <br>bev2ratio=33
 <br>bev3=1475626 - Coca-Cola Raspberry
 <br>bev3ratio=33
