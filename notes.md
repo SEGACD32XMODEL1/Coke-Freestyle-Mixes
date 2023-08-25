@@ -1,3 +1,10 @@
+![mix](https://i.pinimg.com/564x/1d/3a/48/1d3a48b9aab2a8c473cb6e787caf70a9.jpg)
+<br>mixname=(Null) YelloFan
+<br>bev1=1596914 - Mello Yello
+<br>bev1ratio=50
+<br>bev2=1475650 - Fanta Orange
+<br>bev2ratio=50
+
 ![mix](https://i.pinimg.com/564x/d0/76/f8/d076f85c484fa86eb4be20b8cd3872e3.jpg)
 <br>mixname=Dreamsicle
 <br>bev1=1475621 - Coca-Cola Vanilla
