@@ -1,3 +1,10 @@
+![mix](https://i.pinimg.com/564x/ad/0f/26/ad0f268b167519479596d79fde5cd23f.jpg)
+<br>mixname=Cherry Coke With Lime
+<br>bev1=1475617 - Coca-Cola Lime
+<br>bev1ratio=30
+<br>bev2=1475620 - Coca-Cola Cherry
+<br>bev2ratio=70
+
 ![mix](https://i.pinimg.com/564x/2d/84/22/2d8422c3dc6daec53760151dae389dad.jpg)
 <br>mixname=("Null") Double Cherry Coke Vanilla
 <br>bev1=1475620 - Coca-Cola Cherry
