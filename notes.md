@@ -1,3 +1,12 @@
+![mix](https://i.pinimg.com/564x/33/29/37/33293797b2a6cc5d809aeb6b5c986f6f.jpg)
+<br>bev1=1574021 - Diet Coke Cherry Vanilla
+<br>bev1ratio=34
+<br>bev2=1475650 - Fanta Orange
+<br>bev2ratio=33
+<br>bev3=1596914 - Mello Yello
+<br>bev3ratio=33
+<br>mixname=Orameke
+
 ![mix](https://i.pinimg.com/564x/1d/3a/48/1d3a48b9aab2a8c473cb6e787caf70a9.jpg)
 <br>mixname=(Null) YelloFan
 <br>bev1=1596914 - Mello Yello
