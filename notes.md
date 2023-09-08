@@ -1,3 +1,12 @@
+![mix](https://i.pinimg.com/564x/14/88/ff/1488ff3014b739a37e7f95ba9abc3687.jpg)
+mixname=Boo Brew
+<br>bev1=1475650 - Fanta Orange
+<br>bev1ratio=40
+<br>bev2=1574026 - Hi-C Orange Vanilla
+<br>bev2ratio=35
+<br>bev3=1565599 - Sprite Vanilla
+<br>bev3ratio=25
+
 ![mix](https://i.pinimg.com/564x/33/29/37/33293797b2a6cc5d809aeb6b5c986f6f.jpg)
 <br>bev1=1574021 - Diet Coke Cherry Vanilla
 <br>bev1ratio=34
