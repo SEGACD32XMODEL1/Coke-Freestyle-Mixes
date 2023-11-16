@@ -1,25 +1,40 @@
-<html>
+<!DOCTYPE html>
+<html class="has-navbar-fixed-top">
   <head>
     <title>Drink ID Codes</title>
     <link rel="stylesheet" href="style.css" />
     <meta name="format-detection" content="telephone=no" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
 
-  <body>
-    <h1>Coke Freestyle Drink ID Codes</h1>
-    <div class="IDmenu">
-      <h2 class="menuTitle">Menu</h2>
-      <a href="#C"><button>C</button></a>
-      <a href="#D"><button>D</button></a>
-      <a href="#F"><button>F</button></a>
-      <a href="#H"><button>H</button></a>
-      <a href="#M"><button>M</button></a>
-      <a href="#S"><button>S</button></a>
+  <body class="has-navbar-fixed-top has-text-centered">
+    <div class="navbar is-fixed-top box is-transparent" role="navigation">
+      <div class="navbar-brand">
+        <h2 class="is-size-1">Coke Freestyle Drink ID Codes</h2>
+        <a class="navbar-burger" id="burger">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navlinks">
+        <div class="navbar-item">
+          <a href="#B" class="button">B</a>
+          <a href="#C" class="button">C</a>
+          <a href="#D" class="button">D</a>
+          <a href="#F" class="button">F</a>
+          <a href="#H" class="button">H</a>
+          <a href="#M" class="button">M</a>
+          <a href="#S" class="button">S</a>
+        </div>
+        <div class="navbar-end">
+          <a href="./index.html" class="button navbar-item">Drink Mixes</a>
+        </div>
+      </div>
     </div>
 
-    <div>
-      <table>
+    <div class="table-container has-navbar-fixed-top">
+      <table class="table">
         <!--Bookmark:"C"-->
         <!--Coca-Cola-->
         <tr>
@@ -31,7 +46,7 @@
               title="Coca-Cola"
             />
           </td>
-          <td class="numbers">1475622</td>
+          <td>1475622</td>
         </tr>
         <!--Coca-Cola Cherry-->
         <tr>
@@ -266,12 +281,6 @@
         </tr>
       </table>
     </div>
-
-    <a
-      href="https://segacd32xmodel1.github.io/Coke-Freestyle-Mixes/index.html"
-      class="idcodes"
-    >
-      <button>Drink Mixes</button>
-    </a>
+    <script src="idcodes.js"></script>
   </body>
 </html>

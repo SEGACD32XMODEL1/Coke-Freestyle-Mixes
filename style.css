@@ -1,79 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Tulpen+One&display=swap");
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@12..96&family=Tulpen+One&display=swap");
 
 * {
-  text-align: center;
   font-family: "Bricolage Grotesque";
-  font-size: 5vw;
+  color: black;
 }
 
-h1 {
-  font-family: "Tulpen One";
-  font-size: 10vw;
-  margin-bottom: 3vw;
-}
-
-table,
-tr,
-td {
-  align-self: center;
-}
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-div {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  margin-top: 0;
-}
-
-img {
-  display: block;
-  width: 15vw;
-  margin-left: auto;
-  margin-right: auto;
+::-webkit-scrollbar {
+  width: 0;
 }
 
 h2 {
-  margin-top: 0;
-}
-
-.letter {
-  width: 15vw;
-}
-
-.numbers {
-  width: 25vw;
-}
-
-.idcodes, .idcodes > button {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  font-size: 3vw;
-}
-
-.IDmenu {
-  position: fixed;
-  bottom: 50vh;
-  top: 50vh;
-  left: 5vw;
-}
-
-.IDmenu > a > button {
-  width: 12vw;
-}
-
-.menuTitle {
-  margin: 0;
-}
-
-@supports (-webkit-touch-callout: none) {
-  button {
-    padding: 0;
-  }
+  font-family: "Tulpen One";
 }
