@@ -6,10 +6,19 @@
   color: black;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 ::-webkit-scrollbar {
   width: 0;
 }
 
 h2 {
   font-family: "Tulpen One";
+}
+
+img {
+  width: 9rem;
+  object-fit: contain;
 }
