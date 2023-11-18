@@ -19,7 +19,7 @@ h2 {
 }
 
 img {
-  width: 12rem;
+  width: 6rem;
   object-fit: contain;
 }
 
@@ -30,5 +30,6 @@ body {
 hr {
   height: 5px;
   border-radius: 5px;
+  width:100%;
   text-align: center;
 }
