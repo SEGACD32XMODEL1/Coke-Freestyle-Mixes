@@ -22,3 +22,13 @@ img {
   width: 9rem;
   object-fit: contain;
 }
+
+body {
+  width: 100%;
+}
+
+hr {
+  height: 5px;
+  border-radius: 5px;
+  text-align: center;
+}

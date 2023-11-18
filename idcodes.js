@@ -5,6 +5,7 @@ const imgSelect = document.querySelectorAll("img");
 
 burgerIcon.addEventListener("click", (event) => {
   navbarMenu.classList.toggle("is-active");
+  burgerIcon.classList.toggle("is-active");
   event.preventDefault();
 });
 
