@@ -1,5 +1,21 @@
+![mix](https://i.pinimg.com/564x/74/7b/6f/747b6f89260240fa116dfd15478d2812.jpg)
+<br>bev1=1565599 - Sprite Vanilla
+<br>bev1ratio=50
+<br>bev2=1631569 - Seagram's Ginger Ale
+<br>bev2ratio=50
+<br>mixname=Daves Rock n Bold Mix
+
+![mix](https://i.pinimg.com/564x/29/1d/2b/291d2b3032c1a392b6870523661befd2.jpg)
+<br>bev1=1475620 - Coca-Cola Cherry
+<br>bev1ratio=33
+<br>bev2=1475621 - Coca-Cola Vanilla
+<br>bev2ratio=33
+<br>bev3=1574024 - Barq's Rootbeer Vanilla
+<br>bev3ratio=34
+mixname=North Pole Magic
+
 ![mix](https://i.pinimg.com/564x/e0/62/a4/e062a415c754c78e41c5b7278124b078.jpg)
-<br>bev1=1475644 - Barqs Rootbeer
+<br>bev1=1475644 - Barq's Rootbeer
 <br>bev1ratio=50
 <br>bev2=1475651 - Fanta Raspberry
 <br>bev2ratio=50
