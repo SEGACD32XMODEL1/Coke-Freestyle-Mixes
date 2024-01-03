@@ -1,3 +1,57 @@
+# Notes
+Minute Maid Light is now Minute Maid Zero Sugar 
+<br>(Source: icon is in a folder named Minute-Maid-Light also site is still naming the category)
+
+## Mixes
+![mix](https://i.pinimg.com/564x/92/e1/a6/92e1a6cc7b9ee50d8356def07631b212.jpg)
+<br>mixname=Nellys Mix
+<br>bev1=1475651 - Fanta Raspberry
+<br>bev1ratio=34
+<br>bev2=1475670 - Minute Maid Zero Sugar Strawberry Lemonade
+<br>bev2ratio=33
+<br>bev3=1475637 - Sprite
+<br>bev3ratio=33
+
+![mix](https://i.pinimg.com/564x/65/41/80/65418067e6a46398d158a013ee72f2c6.jpg)
+<br>mixname=Spring Up Mix
+<br>bev1=1475662 - Minute Maid Lemonade
+<br>bev1ratio=34
+<br>bev2=1475670 - Minute Maid Zero Sugar Strawberry Lemonade
+<br>bev2ratio=33
+<br>bev3=1475666 - Minute Maid Zero Sugar Lemonade
+<br>bev3ratio=33
+
+![mix](https://i.pinimg.com/564x/e7/28/5a/e7285abff59ff6db4ef6aca51c328f86.jpg)
+<br>mixname=Dr Fizzzzzzz
+<br>bev1=1574027 - Hi-C Raspberry Lime
+<br>bev1ratio=34
+<br>bev2=1582394
+<br>bev2ratio=33
+<br>bev3=1748103
+<br>bev3ratio=33
+
+![mix](https://i.pinimg.com/564x/4a/fd/f2/4afdf23b981297023c44faacf09034a1.jpg)
+<br>mixname=Rassberry Limeade
+<br>bev1=1475674
+<br>bev1ratio=34
+<br>bev2=1475618
+<br>bev2ratio=33
+<br>bev3=1816611
+<br>bev3ratio=33
+
+![mix](https://i.pinimg.com/564x/3f/b7/fb/3fb7fb3b94189e5e94b1c091a6003683.jpg)
+<br>mixname=Lemon Raspberry
+<br>bev1=1475626 - Coca-Cola Raspberry
+<br>bev1ratio=34
+<br>bev2=1475669
+<br>bev2ratio=33
+<br>bev3=1616637
+<br>bev3ratio=33
+
+<br>
+
+## Solved
+
 ![mix](https://i.pinimg.com/564x/74/7b/6f/747b6f89260240fa116dfd15478d2812.jpg)
 <br>bev1=1565599 - Sprite Vanilla
 <br>bev1ratio=50
