@@ -1,25 +1,11 @@
 # Notes
-Minute Maid Light is now Minute Maid Zero Sugar 
-<br>(Source: icon is in a folder named Minute-Maid-Light also site is still naming the category)
+
+Minute Maid Light is now Minute Maid Zero Sugar.
+<br>(Source: icon is in a folder named Minute-Maid-Light also site is still naming the category).
+
+Diet Coke Lime does not exist anymore.
 
 ## Mixes
-![mix](https://i.pinimg.com/564x/92/e1/a6/92e1a6cc7b9ee50d8356def07631b212.jpg)
-<br>mixname=Nellys Mix
-<br>bev1=1475651 - Fanta Raspberry
-<br>bev1ratio=34
-<br>bev2=1475670 - Minute Maid Zero Sugar Strawberry Lemonade
-<br>bev2ratio=33
-<br>bev3=1475637 - Sprite
-<br>bev3ratio=33
-
-![mix](https://i.pinimg.com/564x/65/41/80/65418067e6a46398d158a013ee72f2c6.jpg)
-<br>mixname=Spring Up Mix
-<br>bev1=1475662 - Minute Maid Lemonade
-<br>bev1ratio=34
-<br>bev2=1475670 - Minute Maid Zero Sugar Strawberry Lemonade
-<br>bev2ratio=33
-<br>bev3=1475666 - Minute Maid Zero Sugar Lemonade
-<br>bev3ratio=33
 
 ![mix](https://i.pinimg.com/564x/e7/28/5a/e7285abff59ff6db4ef6aca51c328f86.jpg)
 <br>mixname=Dr Fizzzzzzz
@@ -51,6 +37,40 @@ Minute Maid Light is now Minute Maid Zero Sugar
 <br>
 
 ## Solved
+
+![mix](https://i.pinimg.com/564x/87/0e/e8/870ee8a843fdd05ce36c958efbd55803.jpg)
+<br>mixname=Coca-Sprite: Cherry
+<br>bev1=1475620 - Coca-Cola Cherry
+<br>bev1ratio=66
+<br>bev2=1475637 - Sprite
+<br>bev2ratio=34
+
+![mix](https://i.pinimg.com/564x/de/43/76/de437663c8fb9cde616a48379580880b.jpg)
+<br>mixname=Lime Love
+<br>bev1=1475649 - Fanta Lime
+<br>bev1ratio=32
+<br>bev2=1596914 - Mello Yello
+<br>bev2ratio=34
+<br>bev3=1475637 - Sprite
+<br>bev3ratio=34
+
+![mix](https://i.pinimg.com/564x/92/e1/a6/92e1a6cc7b9ee50d8356def07631b212.jpg)
+<br>mixname=Nellys Mix
+<br>bev1=1475651 - Fanta Raspberry
+<br>bev1ratio=34
+<br>bev2=1475670 - Minute Maid Zero Sugar Strawberry Lemonade
+<br>bev2ratio=33
+<br>bev3=1475637 - Sprite
+<br>bev3ratio=33
+
+![mix](https://i.pinimg.com/564x/65/41/80/65418067e6a46398d158a013ee72f2c6.jpg)
+<br>mixname=Spring Up Mix
+<br>bev1=1475662 - Minute Maid Lemonade
+<br>bev1ratio=34
+<br>bev2=1475670 - Minute Maid Zero Sugar Strawberry Lemonade
+<br>bev2ratio=33
+<br>bev3=1475666 - Minute Maid Zero Sugar Lemonade
+<br>bev3ratio=33
 
 ![mix](https://i.pinimg.com/564x/74/7b/6f/747b6f89260240fa116dfd15478d2812.jpg)
 <br>bev1=1565599 - Sprite Vanilla

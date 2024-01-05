@@ -4,6 +4,7 @@
 * {
   font-family: "Bricolage Grotesque";
   color: black;
+  font-size: 7vmin;
 }
 
 html {
@@ -19,7 +20,7 @@ h2 {
 }
 
 img {
-  width: 6rem;
+  width: 18vmin;
   object-fit: contain;
 }
 
@@ -32,4 +33,5 @@ hr {
   border-radius: 5px;
   width:100%;
   text-align: center;
+  background-color: #fefefe;
 }
