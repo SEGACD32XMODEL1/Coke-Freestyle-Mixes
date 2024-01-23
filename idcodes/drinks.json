@@ -1,0 +1,146 @@
+{
+    "drinks": [
+        {
+            "name": "Barq's Root Beer",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Barqs/BarqsRB_200.png",
+            "code": "1475644",
+            "letter": "B"
+        },
+        {
+            "name": "Barq's Root Beer Vanilla",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Barqs/BarqsRB_Vanilla_200.png",
+            "code": "1574024"
+        },
+        {
+            "name": "Coca-Cola",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Coca-Cola/CocaCola__200.png",
+            "code": "1475622",
+            "letter": "C"
+        },
+        {
+            "name": "Coca-Cola Cherry",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Coca-Cola/CocaCola_Cherry_200.png",
+            "code": "1475620"
+        },
+        {
+            "name": "Coca-Cola Cherry Vanilla",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Coca-Cola/CocaCola_CherryVanilla_200.png",
+            "code": "1574020"
+        },
+        {
+            "name": "Coca-Cola Lime",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Coca-Cola/CocaCola_Lime_200.png",
+            "code": "1475617"
+        },
+        {
+            "name": "Coca-Cola Raspberry",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Coca-Cola/CocaCola_Raspberry_200.png",
+            "code": "1475626"
+        },
+        {
+            "name": "Coca-Cola Vanilla",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Coca-Cola/CocaCola_Vanilla_200.png",
+            "code": "1475621"
+        },
+        {
+            "name": "Coca-Cola Zero Vanilla",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Coca-Cola%20Zero/CocaColaZero_Vanilla_200.png",
+            "code": "1475625"
+        },
+        {
+            "name": "Diet Coke Cherry Vanilla",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Coke%20Diet/DietCoke_CherryVanilla_200.png",
+            "code": "1574021",
+            "letter": "D"
+        },
+        {
+            "name": "Diet Coke Caffeine Free Raspberry",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Diet%20Coke%20CF/DietCokeCF_Raspberry_200.png",
+            "code": "1475636"
+        },
+        {
+            "name": "Fanta Lime",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Fanta/Fanta_Lime_200.png",
+            "code": "1475649",
+            "letter": "F"
+        },
+        {
+            "name": "Fanta Orange",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Fanta/Fanta_Orange_200.png",
+            "code": "1475650"
+        },
+        {
+            "name": "Fanta Peach",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Fanta/Fanta_Peach_200.png",
+            "code": "1475654"
+        },
+        {
+            "name": "Fanta Raspberry",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Fanta/Fanta_Raspberry_200.png",
+            "code": "1475651"
+        },
+        {
+            "name": "Hi-C Orange Vanilla",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Hi-C/HiC_OrangeVanilla_200.png",
+            "code": "1574026",
+            "letter": "H"
+        },
+        {
+            "name": "Hi-C Raspberry Lime",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Hi-C/HiC_OrangeVanilla_200.png",
+            "code": "1574027"
+        },
+        {
+            "name": "Mello Yello",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Mello%20Yello/MelloYello_200.png",
+            "code": "1596914",
+            "letter": "M"
+        },
+        {
+            "name": "Mello Yello Peach",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Mello%20Yello/MelloYello_Peach_200.png",
+            "code": "1596918"
+        },
+        {
+            "name": "Mello Yello Zero Sugar Peach",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Mello%20Yello%20Zero/MelloYello_ZeroSugar_Peach.png",
+            "code": "1616644"
+        },
+        {
+            "name": "Minute Maid Lemonade",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Minute%20Maid/MMLemonades_Lemonade_200.png",
+            "code": "1475662"
+        },
+        {
+            "name": "Minute Maid Zero Sugar Lemonade",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Minute-Maid-Light/MMLemonadesZero_Lemonade_200.png",
+            "code": "1475666"
+        },
+        {
+            "name": "Minute Maid Zero Sugar Strawberry Lemonade",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Minute-Maid-Light/MMLemonadesZero_StrawberryLemonade_200.png",
+            "code": "1475670"
+        },
+        {
+            "name": "Seagram's Ginger Ale",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en-US/Brands/Seagrams%20Ginger%20Ale/Seagrams_GingerAle.png",
+            "code": "1631569",
+            "letter": "S"
+        },
+        {
+            "name": "Sprite",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en_US/Brands/Sprite/sprite-41.png",
+            "code": "1475637"
+        },
+        {
+            "name": "Sprite Strawberry",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en_US/Brands/Sprite/sprite-strawberry-47.png",
+            "code": "1482853"
+        },
+        {
+            "name": "Sprite Vanilla",
+            "image": "https://www.coca-colafreestyle.com/content/dam/FreeStyle/en_US/Brands/Sprite/sprite-vanilla-48.png",
+            "code": "1565599"
+        }
+    ]
+}
