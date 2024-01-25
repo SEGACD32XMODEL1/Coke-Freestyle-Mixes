@@ -2,7 +2,7 @@
     .then((response) => response.json())
     .then((json) => console.log(json));*/
 
-import data from "./index.json" assert { type: "json" };
+import data from "./drinks.json" assert { type: "json" };
 console.log(data);
 console.log(data.drinks[0]);
 
